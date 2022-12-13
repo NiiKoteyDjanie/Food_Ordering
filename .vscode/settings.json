@@ -23,6 +23,9 @@
     "auth\\analysis_options.yaml": true,
     "auth\\auth.iml": true,
     "auth\\CHANGELOG.md": true,
-    "auth\\LICENSE": true
+    "auth\\LICENSE": true,
+    "auth\\pubspec.lock": true,
+    "auth\\pubspec.yaml": true,
+    "auth\\README.md": true
   }
 }
